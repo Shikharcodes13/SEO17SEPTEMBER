@@ -1,0 +1,9 @@
+Ans 3. Meta tag <meta> in HTML is used to provide information about a web page to search engines, browsers, and other web services.
+
+Some of the Benefits of Meta tags are:
+SEO (Search engine optimization)
+Social Media Sharing
+Character Encoding and Language
+Viewport controlled
+HTTP-Equiv tags
+Web Accessibility
